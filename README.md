@@ -21,3 +21,7 @@ Before proceeding, ensure you're using **Python 3.8**, as versions above or belo
    Once selected, click **Apply** and **OK** to save your changes and go back to your project.
 
 Now you’re all set to follow the tutorial and work with TensorFlow and Keras!
+
+### **pip install**
+`pip install matplotlib numpy pillow tensorflow`
+
