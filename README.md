@@ -25,3 +25,9 @@ Now you’re all set to follow the tutorial and work with TensorFlow and Keras!
 ### **pip install**
 `pip install matplotlib numpy pillow tensorflow`
 
+## Training and Validation Accuracy/Loss
+**Description**: This chart illustrates the training and validation accuracy over the epochs. The x-axis represents the number of epochs, while the y-axis indicates the accuracy percentage. As shown, the training accuracy increases with each epoch, suggesting that the model is learning. The validation accuracy also improves, indicating that the model is generalizing well to unseen data.
+
+<img src="https://github.com/user-attachments/assets/e4f0cbe8-b26f-4b18-a6a5-1ebfba0f6da6" alt="grafik" width="600"/>
+
+
