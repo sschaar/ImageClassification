@@ -104,7 +104,7 @@ model.compile(optimizer='adam',
 
 model.summary()
 
-epochs = 15
+epochs = 5
 history = model.fit(
   train_ds,
   validation_data=val_ds,
